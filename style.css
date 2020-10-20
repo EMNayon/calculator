@@ -1,0 +1,56 @@
+.main {
+    text-align: center;
+}
+.input input {
+    width: 33%;
+    height: 4rem;
+    font-size: 2rem;
+    border: 2px solid silver;
+    background-color: powderblue;
+}
+.symboldigit {
+    background-color: black;
+    display: inline-block;
+}
+
+.digit button {
+    display: inline-block;
+    padding: 2px;
+    margin: 12px;
+    border-radius: 30px;
+}
+button {
+    width: 5rem;
+    height: 2.7rem;
+    font-size: 1.7rem;
+    color: orange; 
+    background-color: white;
+    box-shadow: 2px 2px;
+}
+button:hover {
+    color: black;
+    background-color: yellow;
+}
+.symbol button{
+    color: white;
+    background-color: rgb(34, 65, 37);
+}
+.symbol button:hover {
+    color: green;
+    background-color: black;
+}
+.symbol1 button {
+    padding: 2px;
+    margin: 12px;
+    border-radius: 30px;
+}
+.symbol2 button {
+    width: 4.3rem;
+    padding: 2px;
+    margin: 8px;
+    border-radius: 20px;
+}
+.specialChar {
+    color: green;
+    background-color: black;
+}
